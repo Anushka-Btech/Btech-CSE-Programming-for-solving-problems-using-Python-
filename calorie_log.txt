@@ -1,0 +1,9 @@
+Daily Calorie Tracker Report
+---------------------------------
+Breakfast - 540.0 kcal
+Lunch - 338.0 kcal
+Dinner - 484.8 kcal
+---------------------------------
+Total: 1362.8
+Average: 454.27
+✅ You are within your daily limit.
